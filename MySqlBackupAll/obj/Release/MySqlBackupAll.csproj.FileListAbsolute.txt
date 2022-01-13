@@ -1,0 +1,37 @@
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySqlBackupAll.exe.config
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySqlBackupAll.exe
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySqlBackupAll.pdb
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\Google.Protobuf.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySql.Data.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySqlBackup.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\Google.Protobuf.xml
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Release\MySql.Data.xml
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.csprojAssemblyReference.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.Form1.resources
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.Properties.Resources.resources
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.CopyComplete
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.exe
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Release\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySqlBackupAll.exe.config
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySqlBackupAll.exe
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\BouncyCastle.Crypto.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\Google.Protobuf.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySql.Data.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySqlBackup.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\Google.Protobuf.xml
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\MySql.Data.xml
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.Form1.resources
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.Properties.Resources.resources
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.GenerateResource.cache
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.CoreCompileInputs.cache
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.csproj.CopyComplete
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.exe
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Release\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\scripts\kenyaemr_create_master_list.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\scripts\kenyaemr_deidentify.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\scripts\kenyaemr_initialize_dbs.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Release\scripts\kenyaemr_refresh_tables.sql

@@ -1,0 +1,38 @@
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.csprojAssemblyReference.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySqlBackupAll.exe.config
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySqlBackupAll.exe
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySqlBackupAll.pdb
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\Google.Protobuf.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySql.Data.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySqlBackup.dll
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\Google.Protobuf.xml
+C:\Users\KK\Desktop\source code\MySqlBackupAll\bin\Debug\MySql.Data.xml
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.Form1.resources
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.Properties.Resources.resources
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.CopyComplete
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.exe
+C:\Users\KK\Desktop\source code\MySqlBackupAll\obj\Debug\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\scripts\kenyaemr_create_master_list.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\scripts\kenyaemr_deidentify.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\scripts\kenyaemr_initialize_dbs.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\scripts\kenyaemr_refresh_tables.sql
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySqlBackupAll.exe.config
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySqlBackupAll.exe
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\Google.Protobuf.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySql.Data.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySqlBackup.dll
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\Google.Protobuf.xml
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\bin\Debug\MySql.Data.xml
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.Form1.resources
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.Properties.Resources.resources
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.GenerateResource.cache
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.CoreCompileInputs.cache
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.csproj.CopyComplete
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.exe
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.pdb
+C:\Dropbox\Apps\DWHRestoreDBs\MySqlBackupAll\obj\Debug\MySqlBackupAll.csprojAssemblyReference.cache
